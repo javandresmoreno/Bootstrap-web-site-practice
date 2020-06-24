@@ -1,0 +1,51 @@
+#footer {
+    background-color: #006e34;
+}
+
+#footer a {
+    color: white;
+}
+
+#footer a:hover {
+    color: #00d463;
+    text-decoration: none;
+}
+
+
+.card a {
+    background-color: #006e34;
+    border: 1px solid #00d463;
+}
+
+.card a:hover {
+    background-color: #00d463;
+    border: 1px solid #00d463;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+#place-time {
+    background-color: #e0e0e0;
+}
+
+#place-time img {
+    height: 300px;
+}
+
+#place-time h2 {
+    color: #006e34;
+}
+
+.btn-zzardin {
+    background-color: #006e34;
+    border: 1px solid #00d463;
+}
+
+.btn-zzardin:hover {
+    background-color: #00d463;
+    border: 1px solid #00d463;
+}
+
